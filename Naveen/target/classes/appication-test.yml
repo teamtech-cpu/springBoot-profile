@@ -1,0 +1,15 @@
+app:
+  name: My app
+  description: Wecome to ${app.name}
+my:
+  greetings: Helloworld
+  list:
+    vaues: one,two,Three
+db:
+  connection: connection-String-here
+  host: 127.0.1
+  port: 1200
+server:
+  port: 8082
+management.endpoints.web.exposure.includes: "*"
+spring.profie.active: test

@@ -1,0 +1,14 @@
+app:
+  name: My app
+  description: Wecome to ${app.name}
+my:
+  greetings: Helloworld
+  list:
+    vaues: one,two,Three
+db:
+  connection: connection-String-here
+  host: 127.0.1
+  port: 2400
+server:
+  port: 8081
+management.endpoints.web.exposure.includes: "*"

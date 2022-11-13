@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "employee",
+      "type": "com.springBoot.profie.model.Employee",
+      "sourceType": "com.springBoot.profie.model.Employee"
+    },
+    {
+      "name": "student",
+      "type": "com.springBoot.profie.model.BasicConfiguration",
+      "sourceType": "com.springBoot.profie.model.BasicConfiguration"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
